@@ -1,1 +1,2 @@
-rootProject.name = 'MyAndroidApp'\ninclude ':app'
+rootProject.name = "MyAndroidApp"
+include ":app"
